@@ -1,0 +1,48 @@
+C:\Users\Felipe Vivanco\Desktop>doskey /History
+ls
+pwd
+cd
+cd Desktop/
+git clone https://github.com/IIC2115/Syllabus
+cd
+git
+cd Syllabus
+ls
+ ls
+ls
+dil
+dir
+git add *
+git commit -m "se sube el lab0"
+git pull
+git remote add origin https://github.com/VivancoF/L0-Vivanco.git
+cd
+cd:
+cd..
+git remote add origin https://github.com/VivancoF/L0-Vivanco.git
+git push -u origin master
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/VivancoF/L0-Vivanco.git
+git push -u origin master
+git config --global user.email "flvivanco@uc.cl"
+git config --global user.name "VivancoF"
+git remote add origin https://github.com/VivancoF/L0-Vivanco.git
+git push -u origin master
+git clone https://github.com/VivancoF/L0-Vivanco
+cd L0-Vivanco
+echo "# L0-Vivanco" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/VivancoF/L0-Vivanco.git
+git push -u origin master
+flvivanco git add *
+git add *
+git commit -m "Primer Archivi"
+git push
+cd..
+doskey
+History
+doskey /History
